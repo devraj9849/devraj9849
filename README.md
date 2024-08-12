@@ -54,7 +54,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-PaloAlto Firewalls-29252b?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
-## Certifications
+
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CYSA+%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
