@@ -58,7 +58,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CYSA+%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security Blue Team Level 1-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk Core Certified User-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2 CC-ea1e43?&style=for-the-badge&logoColor=white" />
