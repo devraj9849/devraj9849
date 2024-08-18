@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/devraj9849/Home-Lab.git">Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection <a href="https://github.com/devraj9849/Home-Lab.git">Home Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | OpenCTI Threat Intelligence                   | <a href="https://github.com/devraj9849/Cyber-Threat-Intelligence-Integration.git">Cyber Threat Intelligence Integration Lab</a>|
@@ -66,5 +66,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/devraj9849/Cyber-Threat-Intelligence-Integration.git">Cyber Threat Intelligence Integration Lab</a>
-- SOC Automation Project
-- Test Project
+- <a href="https://github.com/devraj9849/Home-Lab.git">Home Lab</a>
