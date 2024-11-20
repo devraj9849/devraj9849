@@ -61,6 +61,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Certifications
 <div>
+<img src="https://img.shields.io/badge/-SC--200%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-PJSA%20Certified-F7DF1E?style=for-the-badge&logo=tcm&logoColor=black" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security Blue Team Level 1-006400?&style=for-the-badge&logoColor=white" />
@@ -71,3 +73,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/devraj9849/Cyber-Threat-Intelligence-Integration.git">Cyber Threat Intelligence Integration Lab</a>
 - <a href="https://github.com/devraj9849/Home-Lab.git">Home Lab</a>
+- <a href="https://github.com/devraj9849/Active-Directory-project.git">Active Directory Project</a>
