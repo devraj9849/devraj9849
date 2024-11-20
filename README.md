@@ -2,7 +2,9 @@
 # Hello, I'm Devraj Khadka
 <a href="https://www.linkedin.com/in/devraj-khadka"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+<a href="http://khadkadevraj100.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a> <br><br>
 A dedicated cybersecurity professional with around 2 years of experience working as a CyberSecurity Analyst.
 
 ## Objective
