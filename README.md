@@ -62,6 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Certifications
 <div>
+<img src="https://img.shields.io/badge/-CDCP%20Certified-0A0A23?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/-SC--200%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-PJSA%20Certified-F7DF1E?style=for-the-badge&logo=tcm&logoColor=black" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
