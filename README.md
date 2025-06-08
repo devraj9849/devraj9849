@@ -24,6 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection| <a href="https://github.com/devraj9849/Home-Lab.git">Home Lab</a>|
 | OpenCTI Threat Intelligence                   | <a href="https://github.com/devraj9849/Cyber-Threat-Intelligence-Integration.git">Cyber Threat Intelligence Integration Lab</a>|
 | Active Directory Lab                          | <a href="https://github.com/devraj9849/Active-Directory-project.git">Active Directory Lab</a>
+| Active Directory Lab 2                        | <a href="https://github.com/devraj9849/Active-Directory-project.git">Active Directory Lab 2</a>
 
 
 ## Tools
